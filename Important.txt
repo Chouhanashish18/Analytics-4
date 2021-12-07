@@ -1,0 +1,2 @@
+Blog:
+https://towardsdatascience.com/step-by-step-approach-of-deploying-ml-model-on-cloud-with-azure-b7139cde7683
